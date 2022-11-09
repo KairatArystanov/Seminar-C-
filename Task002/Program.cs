@@ -12,4 +12,5 @@ if (a == 4) Console.Write("Четверг");
 if (a == 5) Console.Write("Пятница");
 if (a == 6) Console.Write("Суббота");
 if (a == 7) Console.Write("Воскресенье");
-if (a > 7 ||a < 1 ) Console.Write ("Такого дня недели не существует");
+if (a > 7 || a < 1) Console.Write("Такого дня недели не существует");
+
